@@ -31,9 +31,9 @@ npm install
 npm run dev
 ```
 
-Open:
+## Live Demo
 
-http://localhost:3000
+🚀 https://movie-finder-rohan.vercel.app/
 
 ## Deployment
 
